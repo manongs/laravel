@@ -11,8 +11,18 @@
 ## 简介
 > Laravel这个名字来自于纳尼亚传奇中的Cair Paravel城堡，在故事中国王和皇后居住其中。Laravel 和Paravel 的发音相似，Taylor认为Laravel这个名字韵味深长而又优雅，所以命名为Laravel。Cair Paravel 中的Paravel发音为['pærəvel]  推断Laravel发音取['lærəvel]
   
+
+## 安装
+> laravel 5.5 环境依赖
+    * PHP >= 7.0.0
+    * PHP OpenSSL 扩展
+    * PHP PDO 扩展
+    * PHP Mbstring 扩展
+    * PHP Tokenizer 扩展
+    * PHP XML 扩展
+
 ## 运行要求
-> laravel 5.5 环境依耐
+> laravel 5.5 环境依赖
   * PHP >= 7.0.0
   * PHP OpenSSL 扩展
   * PHP PDO 扩展
@@ -28,3 +38,4 @@
   > 集成开发环境，支持windows,mac
   * [MAMP & MAMP PRO](https://www.mamp.info/en/downloads/)
   > 集成开发环境，支持mac,windows
+
