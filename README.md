@@ -6,7 +6,7 @@
 ## 目录
 - [简介](#简介)
 - [运行要求](#运行要求)
-- [安装](#安装)
+- [环境安装](#环境安装)
 
 ## 简介
 > Laravel这个名字来自于纳尼亚传奇中的Cair Paravel城堡，在故事中国王和皇后居住其中。Laravel 和Paravel 的发音相似，Taylor认为Laravel这个名字韵味深长而又优雅，所以命名为Laravel。Cair Paravel 中的Paravel发音为['pærəvel]  推断Laravel发音取['lærəvel]
@@ -20,7 +20,7 @@
   * PHP Tokenizer 扩展
   * PHP XML 扩展
  
-## 安装
+## 环境安装
   请大家下载的时候，一定要下载php7以上的版本，最好下载php7.1以上的版本
   * [Homestead](https://d.laravel-china.org/docs/5.5/homestead)
   > 虚拟机环境(支laravel功能最全的环境，也是较为难装的环境，主要是vagrant的镜像是国外的，下载非常慢，建议用VPN错开高峰时下载)
